@@ -12,3 +12,6 @@ print("Hello" + " " + "Angela")
 print("Hello" + " " +  input("What is your name ") + "!")
 
 print(len(input("What is your name?")))
+
+user = input("What is your name? \n")
+print(user)
